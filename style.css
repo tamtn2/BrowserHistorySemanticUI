@@ -1,16 +1,13 @@
 h1, h2 {
   font-family: "Oswald", sans-serif;
-  color: DarkBlue;
-}
-body {
-  font-family: "Open Sans", sans-serif;
-  color: DarkBlue;
-  margin: 10px 50px 10px 50px;
-  background-color: ivory;
+  color: cornflowerblue;
 }
 
-.format {
-  width: 80%;
+body {
+  font-family: "Open Sans", sans-serif;
+  color: cornflowerblue;
+  margin: 50px;
+  background-color: ivory;
 }
 
 img {
@@ -24,12 +21,6 @@ li {
 
 .columns {
   float: left;
-  width: 300px;
-  margin: 0 20px 0 20px;
+  width: 400px;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
